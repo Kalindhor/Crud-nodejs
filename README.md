@@ -1,4 +1,4 @@
-## Como rodar o projeto?
+## 💻 Como rodar o projeto?👩🏽‍💻
 
 * git clone
 
@@ -11,14 +11,14 @@
 * Instale o nodemon: 
 ```npm install -g nodemon```
 
-Comando para rodar o projeto:
+* Comando para rodar o projeto:
 ```node index.js ```
 
-Para verificar se está funcionando entre no http://localhost:3010/cursos
+* Para verificar se está funcionando entre no http://localhost:3010/cursos
 
-## Video de Configuração:
+## 🎥 Video de Configuração:
 https://www.youtube.com/watch?v=2FrHcxLvN98&t=1s
-## CRUD usando o postman:
+## 🎥 CRUD usando o postman:
 https://www.youtube.com/watch?v=s4z8jGNkKY0&t=23s
-## CRUD usando o Insomnia: 
+## 🎥 CRUD usando o Insomnia: 
 https://www.youtube.com/watch?v=Q7l67HmPBgQ
