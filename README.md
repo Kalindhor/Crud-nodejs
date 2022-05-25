@@ -1,4 +1,7 @@
-## 💻 Como rodar o projeto?👩🏽‍💻
+#  👩🏽‍💻 CRUD Node.js 👨🏽‍💻
+Projeto desenvolvido com um CRUD básico de disciplinas para o módulo testes do programa Web Academy.
+
+## 💻 Como rodar o projeto?
 
 * git clone
 
